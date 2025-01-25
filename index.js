@@ -1,3 +1,4 @@
-console.log("redux");
-
-console.log("action reducer");
+let state = {
+    count :0
+}
+console.log(state.state = 1)

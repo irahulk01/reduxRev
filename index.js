@@ -1,3 +1,3 @@
-console.log("redux")
+console.log("redux");
 
-console.log("action reducer")
+console.log("action reducer");
